@@ -9,3 +9,12 @@
            <a href="https://www.dotnetcurry.com/patterns-practices/1520/function-parameters-csharp-anti-pattern">Function parameters in C# and the flattened sum type anti-pattern</a>
 </details>
 
+### LINQ ###
+
+
+<details>
+           <summary>
+                      LINQ2Entity - query generated 
+           </summary>
+           <a href="https://www.dotnetcurry.com/csharp/1481/linq-query-execution-performance">Function parameters in C# and the flattened sum type anti-pattern</a>
+</details>
