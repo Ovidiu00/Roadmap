@@ -15,6 +15,14 @@
            <a href="https://www.dotnetcurry.com/patterns-practices/1475/data-objects-csharp-examples">Designing Data Objects in C#: More examples
 </a>
 </details>
+<details>
+           <summary>
+                    Garbage collector , how it works and how to properly use it.
+           </summary>
+           <a href="https://www.dotnetcurry.com/csharp/1471/garbage-collection-csharp-dotnet-core">Garbage Collection in C# (.NET Framework and .NET Core)
+
+</a>
+</details>
 
 # LINQ #
 
@@ -26,3 +34,5 @@
            <a href="https://www.dotnetcurry.com/csharp/1481/linq-query-execution-performance">How does a C# LINQ Query execute and How does this affect Performance?
 </a>
 </details>
+
+
