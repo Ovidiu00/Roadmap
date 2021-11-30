@@ -9,8 +9,8 @@
 </details>
 
 <details>
-           <summary
-                    Examples of how to property design objects.
+           <summary>
+                    Examples of how to properly design objects.
            </summary>
            <a href="https://www.dotnetcurry.com/patterns-practices/1475/data-objects-csharp-examples">Designing Data Objects in C#: More examples
 </a>
