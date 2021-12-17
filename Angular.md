@@ -27,10 +27,10 @@ Angular academy
 
 <details>
            <summary>
-                  Documentation binding syntax demos
+                  Documentation tempalte syntax demos
            </summary>
-           <a href="https://angular.io/generated/live-examples/binding-syntax/stackblitz">
-                     https://angular.io/generated/live-examples/binding-syntax/stackblitz
+           <a href="https://angular.io/generated/live-examples/template-syntax/stackblitz">
+                    https://angular.io/generated/live-examples/template-syntax/stackblitz
            </a>
 </details>
 
