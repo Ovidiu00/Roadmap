@@ -24,3 +24,13 @@ Angular academy
 
 </details>
 
+
+<details>
+           <summary>
+                  Documentation binding syntax demos
+           </summary>
+           <a href="https://angular.io/generated/live-examples/binding-syntax/stackblitz">
+                     https://angular.io/generated/live-examples/binding-syntax/stackblitz
+           </a>
+</details>
+
