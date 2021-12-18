@@ -21,7 +21,6 @@ Angular academy
            <a href="https://dotnettutorials.net/lesson/html-attribute-vs-dom-property/">Html atributes vs DOM proprieties
 
 </a>
-
 </details>
 
 
@@ -31,6 +30,15 @@ Angular academy
            </summary>
            <a href="https://angular.io/generated/live-examples/template-syntax/stackblitz">
                     https://angular.io/generated/live-examples/template-syntax/stackblitz
+           </a>
+</details>
+
+<details>
+           <summary>
+                  Improving DOM Rendering using trackby inside *ngFor
+           </summary>
+           <a href="https://www.youtube.com/watch?v=8hj3ViywQZk&ab_channel=FunOfHeuristic">
+                  trackBy - Efficient for loop in angular | Improve Your Application Performance with trackBy
            </a>
 </details>
 
