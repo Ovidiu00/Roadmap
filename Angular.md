@@ -42,3 +42,11 @@ Angular academy
            </a>
 </details>
 
+<details>
+           <summary>
+                 How Angular assigns values to template variables
+           </summary>
+           <a href="https://angular.io/guide/template-reference-variables">
+               https://angular.io/guide/template-reference-variables
+           </a>
+</details>
