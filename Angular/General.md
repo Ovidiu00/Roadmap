@@ -32,6 +32,14 @@ Angular academy
                     https://angular.io/generated/live-examples/template-syntax/stackblitz
            </a>
 </details>
+<details>
+           <summary>
+                  Lifecycle hooks
+           </summary>
+           <a href="https://angular.io/guide/lifecycle-hooks">
+                    https://angular.io/guide/lifecycle-hooks
+           </a>
+</details>
 
 <details>
            <summary>
