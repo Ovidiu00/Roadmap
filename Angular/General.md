@@ -92,3 +92,11 @@ Angular academy
              https://www.tektutorialshub.com/angular/ng-template-in-angular/
            </a>
 </details>
+<details>
+           <summary>
+                Structural directives
+           </summary>
+            <a href="https://angular.io/guide/structural-directives">
+             https://angular.io/guide/structural-directives
+           </a>
+</details>
