@@ -74,3 +74,12 @@ Angular academy
                https://angular.io/guide/dynamic-component-loader
            </a>
 </details>
+
+<details>
+           <summary>
+                Understanding ViewContainerRef in Angular 2
+           </summary>
+            <a href="https://netbasal.com/angular-2-understanding-viewcontainerref-acc183f3b682">
+             https://netbasal.com/angular-2-understanding-viewcontainerref-acc183f3b682
+           </a>
+</details>
