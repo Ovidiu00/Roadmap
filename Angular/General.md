@@ -88,7 +88,7 @@ Angular academy
            <summary>
                 How to use ng-template & TemplateRef in Angular
            </summary>
-            <a href=" https://www.tektutorialshub.com/angular/ng-template-in-angular/">
+            <a href="https://www.tektutorialshub.com/angular/ng-template-in-angular/">
              https://www.tektutorialshub.com/angular/ng-template-in-angular/
            </a>
 </details>
