@@ -83,3 +83,12 @@ Angular academy
              https://netbasal.com/angular-2-understanding-viewcontainerref-acc183f3b682
            </a>
 </details>
+
+<details>
+           <summary>
+                How to use ng-template & TemplateRef in Angular
+           </summary>
+            <a href=" https://www.tektutorialshub.com/angular/ng-template-in-angular/">
+             https://www.tektutorialshub.com/angular/ng-template-in-angular/
+           </a>
+</details>
