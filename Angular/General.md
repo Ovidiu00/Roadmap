@@ -100,3 +100,11 @@ Angular academy
              https://angular.io/guide/structural-directives
            </a>
 </details>
+<details>
+           <summary>
+                How To Use @HostBinding and @HostListener in Custom Angular Directives
+           </summary>
+            <a href="https://www.digitalocean.com/community/tutorials/angular-hostbinding-hostlistener">
+           https://www.digitalocean.com/community/tutorials/angular-hostbinding-hostlistener
+           </a>
+</details>
