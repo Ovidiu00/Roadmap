@@ -108,3 +108,11 @@ Angular academy
            https://www.digitalocean.com/community/tutorials/angular-hostbinding-hostlistener
            </a>
 </details>
+<details>
+           <summary>
+              Angular ng-template, ng-container and ngTemplateOutlet
+           </summary>
+            <a href="https://blog.angular-university.io/angular-ng-template-ng-container-ngtemplateoutlet/">
+          https://blog.angular-university.io/angular-ng-template-ng-container-ngtemplateoutlet//
+           </a>
+</details>
