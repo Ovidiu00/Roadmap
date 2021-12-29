@@ -116,3 +116,11 @@ Angular academy
           https://blog.angular-university.io/angular-ng-template-ng-container-ngtemplateoutlet//
            </a>
 </details>
+<details>
+           <summary>
+              Angular Routing Parameters (Required Param,Optional param,QueryParam,NavigationExtras)
+           </summary>
+            <a href="https://medium.com/@icbrewery007/angular-routing-parameters-required-param-optional-param-queryparam-navigationextras-41844af5a6eb">
+          https://medium.com/@icbrewery007/angular-routing-parameters-required-param-optional-param-queryparam-navigationextras-41844af5a6eb
+           </a>
+</details>
