@@ -124,3 +124,11 @@ Angular academy
           https://medium.com/@icbrewery007/angular-routing-parameters-required-param-optional-param-queryparam-navigationextras-41844af5a6eb
            </a>
 </details>
+<details>
+           <summary>
+              Angular Layout
+           </summary>
+            <a href="https://github.com/angular/flex-layout/wiki/API-Documentation">
+          https://github.com/angular/flex-layout/wiki/API-Documentation
+           </a>
+</details>
