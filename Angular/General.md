@@ -118,6 +118,14 @@ Angular academy
 </details>
 <details>
            <summary>
+               Ng container
+           </summary>
+            <a href="https://www.tektutorialshub.com/angular/ng-container-in-angular/">
+          https://www.tektutorialshub.com/angular/ng-container-in-angular/
+           </a>
+</details>
+<details>
+           <summary>
               Angular Routing Parameters (Required Param,Optional param,QueryParam,NavigationExtras)
            </summary>
             <a href="https://medium.com/@icbrewery007/angular-routing-parameters-required-param-optional-param-queryparam-navigationextras-41844af5a6eb">
