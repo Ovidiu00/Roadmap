@@ -12,7 +12,6 @@
 <details>
            <summary>
               C# | Predicate Delegate
-
            </summary>
            <a href="https://www.geeksforgeeks.org/c-sharp-predicate-delegate/?ref=lbp">https://www.geeksforgeeks.org/c-sharp-predicate-delegate/?ref=lbp
 
