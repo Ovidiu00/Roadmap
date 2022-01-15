@@ -27,3 +27,10 @@
            </summary>
            <a href="https://www.geeksforgeeks.org/c-sharp-action-delegate/?ref=lbp">https://www.geeksforgeeks.org/c-sharp-action-delegate/?ref=lbp</a>
            </details>
+
+        <details>
+           <summary>
+              C# | Events
+           </summary>
+           <a href="https://www.tutorialsteacher.com/csharp/csharp-event">https://www.tutorialsteacher.com/csharp/csharp-event</a>
+           </details>
