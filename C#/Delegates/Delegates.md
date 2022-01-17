@@ -30,3 +30,9 @@
            </summary>
            <a href="https://www.tutorialsteacher.com/csharp/csharp-event">https://www.tutorialsteacher.com/csharp/csharp-event</a>
          </details>
+             <details>
+           <summary>
+             How to publish events that conform to .NET Guidelines
+           </summary>
+           <a href="https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/events/how-to-publish-events-that-conform-to-net-framework-guidelines">https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/events/how-to-publish-events-that-conform-to-net-framework-guidelines</a>
+         </details>
