@@ -140,3 +140,11 @@ Angular academy
           https://github.com/angular/flex-layout/wiki/API-Documentation
            </a>
 </details>
+<details>
+           <summary>
+              host, host-context, view-encapsulation, dynamic styles
+           </summary>
+            <a href="https://indepth.dev/posts/1469/techniques-to-style-component-host-element-in-angular">
+          https://indepth.dev/posts/1469/techniques-to-style-component-host-element-in-angular
+           </a>
+</details>
