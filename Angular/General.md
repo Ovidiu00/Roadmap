@@ -156,3 +156,11 @@ Angular academy
          Angular Material Data Table: A Complete Example (Server Pagination, Filtering, Sorting)
            </a>
 </details>
+<details>
+           <summary>
+             Parent and children communicate using a service
+           </summary>
+            <a href="https://angular.io/guide/component-interaction#parent-and-children-communicate-using-a-service">
+        Parent and children communicate using a service
+           </a>
+</details>
