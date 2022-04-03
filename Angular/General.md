@@ -164,3 +164,11 @@ Angular academy
         Parent and children communicate using a service
            </a>
 </details>
+<details>
+           <summary>
+            Angular Authentication With JSON Web Tokens (JWT): The Complete Guide
+           </summary>
+            <a href="https://blog.angular-university.io/angular-jwt-authentication/e">
+        Angular Authentication With JSON Web Tokens (JWT): The Complete Guide
+           </a>
+</details>
