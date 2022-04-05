@@ -168,7 +168,7 @@ Angular academy
            <summary>
             Angular Authentication With JSON Web Tokens (JWT): The Complete Guide
            </summary>
-            <a href="https://blog.angular-university.io/angular-jwt-authentication/e">
+            <a href="https://blog.angular-university.io/angular-jwt-authentication">
         Angular Authentication With JSON Web Tokens (JWT): The Complete Guide
            </a>
 </details>
