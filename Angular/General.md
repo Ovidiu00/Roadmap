@@ -140,3 +140,35 @@ Angular academy
           https://github.com/angular/flex-layout/wiki/API-Documentation
            </a>
 </details>
+<details>
+           <summary>
+              host, host-context, view-encapsulation, dynamic styles
+           </summary>
+            <a href="https://indepth.dev/posts/1469/techniques-to-style-component-host-element-in-angular">
+          https://indepth.dev/posts/1469/techniques-to-style-component-host-element-in-angular
+           </a>
+</details>
+<details>
+           <summary>
+              Material table - server side pagination/filtering/sorting
+           </summary>
+            <a href="https://blog.angular-university.io/angular-material-data-table/">
+         Angular Material Data Table: A Complete Example (Server Pagination, Filtering, Sorting)
+           </a>
+</details>
+<details>
+           <summary>
+             Parent and children communicate using a service
+           </summary>
+            <a href="https://angular.io/guide/component-interaction#parent-and-children-communicate-using-a-service">
+        Parent and children communicate using a service
+           </a>
+</details>
+<details>
+           <summary>
+            Angular Authentication With JSON Web Tokens (JWT): The Complete Guide
+           </summary>
+            <a href="https://blog.angular-university.io/angular-jwt-authentication">
+        Angular Authentication With JSON Web Tokens (JWT): The Complete Guide
+           </a>
+</details>
