@@ -1,5 +1,13 @@
 <details>
            <summary>
+Concurrency, Parallelism, Threads, Processes, Async, and Sync — Related? 🤔
+           </summary>
+           <a href="https://medium.com/swift-india/concurrency-parallelism-threads-processes-async-and-sync-related-39fd951bc61d">
+https://medium.com/swift-india/concurrency-parallelism-threads-processes-async-and-sync-related-39fd951bc61d
+           </a>
+</details>
+<details>
+           <summary>
 The Difference Between Multithreading and Multiprocessing
            </summary>
            <a href="https://www.indeed.com/career-advice/career-development/multithreading-vs-multiprocessing">
