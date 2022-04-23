@@ -66,3 +66,10 @@ Great stackoverflow answer
            <a href="https://stackoverflow.com/questions/37419572/if-async-await-doesnt-create-any-additional-threads-then-how-does-it-make-appl">
 https://stackoverflow.com/questions/37419572/if-async-await-doesnt-create-any-additional-threads-then-how-does-it-make-appl           </a>
 </details>
+<details>
+           <summary>
+Another great stackoverflow answer
+           </summary>
+           <a href="https://stackoverflow.com/questions/56597436/async-method-not-returning-control-back-to-caller-method">
+https://stackoverflow.com/questions/56597436/async-method-not-returning-control-back-to-caller-method</a>
+</details>
