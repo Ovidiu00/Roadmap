@@ -59,3 +59,10 @@ Rainer Stropek -  async courses
                  C# Async Programming - Part 3: Demos for Web API and WPF UI
      </a>  
                       </details>   
+<details>
+           <summary>
+Great stackoverflow answer
+           </summary>
+           <a href="https://stackoverflow.com/questions/37419572/if-async-await-doesnt-create-any-additional-threads-then-how-does-it-make-appl">
+https://stackoverflow.com/questions/37419572/if-async-await-doesnt-create-any-additional-threads-then-how-does-it-make-appl           </a>
+</details>
