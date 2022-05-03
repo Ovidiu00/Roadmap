@@ -41,5 +41,10 @@
 
 </a>
 </details>
-
+<details>
+           <summary>
+                      Coding Practices: The most important ones – Part 1
+           </summary>
+           <a href="https://www.dotnetcurry.com/patterns-practices/1534/important-coding-practices-part-1">https://www.dotnetcurry.com/patterns-practices/1534/important-coding-practices-part-1</a>
+</details>
 
