@@ -47,4 +47,10 @@
            </summary>
            <a href="https://www.dotnetcurry.com/patterns-practices/1534/important-coding-practices-part-1">https://www.dotnetcurry.com/patterns-practices/1534/important-coding-practices-part-1</a>
 </details>
+<details>
+           <summary>
+                      8 Software engineering principles to live by
+           </summary>
+           <a href="https://www.callicoder.com/software-development-principles/">https://www.callicoder.com/software-development-principles/</a>
+</details>
 
