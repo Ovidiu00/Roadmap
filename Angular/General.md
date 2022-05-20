@@ -180,3 +180,20 @@ Angular academy
                        https://www.learn-angular.fr/ngcontent-and-selector/
            </a>
 </details>
+<details>
+           <summary>
+ViewChildren and ContentChildren in Angular
+           </summary>
+            <a href="https://blog.mgechev.com/2016/01/23/angular2-viewchildren-contentchildren-difference-viewproviders/">
+                     https://blog.mgechev.com/2016/01/23/angular2-viewchildren-contentchildren-difference-viewproviders/
+           </a>
+</details>
+<details>
+           <summary>
+What's the difference between @ViewChild and @ContentChild?
+           </summary>
+            <a href="https://stackoverflow.com/questions/34326745/whats-the-difference-between-viewchild-and-contentchild">
+                     https://stackoverflow.com/questions/34326745/whats-the-difference-between-viewchild-and-contentchild
+           </a>
+</details>
+
