@@ -172,3 +172,11 @@ Angular academy
         Angular Authentication With JSON Web Tokens (JWT): The Complete Guide
            </a>
 </details>
+<details>
+           <summary>
+            ng-content and selectors
+           </summary>
+            <a href="https://www.learn-angular.fr/ngcontent-and-selector/">
+                       https://www.learn-angular.fr/ngcontent-and-selector/
+           </a>
+</details>
