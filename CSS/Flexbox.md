@@ -30,3 +30,11 @@
           https://www.youtube.com/watch?v=Y8zMYaD1bz0&list=PL4cUxeGkcC9i3FXJSUfmsNOx8E7u6UuhG&ab_channel=TheNetNinja
            </a>
 </details>
+<details>
+           <summary>
+              PPT 
+           </summary>
+           <a href="https://github.com/Ovidiu00/Proof-of-concept---mini-projects/blob/main/CSS/FLEXBOX.pptx">
+          https://github.com/Ovidiu00/Proof-of-concept---mini-projects/blob/main/CSS/FLEXBOX.pptx
+           </a>
+</details>
