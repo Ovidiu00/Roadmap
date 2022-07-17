@@ -30,3 +30,11 @@
           https://www.youtube.com/watch?v=_-aDOAMmDHI&t=676s&ab_channel=KevinPowell
            </a>
 </details>
+<details>
+           <summary>
+              PPT
+           </summary>
+           <a href="https://github.com/Ovidiu00/Proof-of-concept---mini-projects/blob/main/CSS/EM%20%26%20REM.pptx">
+          https://github.com/Ovidiu00/Proof-of-concept---mini-projects/blob/main/CSS/EM%20%26%20REM.pptx
+           </a>
+</details>
