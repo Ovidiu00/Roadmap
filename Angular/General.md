@@ -196,4 +196,43 @@ What's the difference between @ViewChild and @ContentChild?
                      https://stackoverflow.com/questions/34326745/whats-the-difference-between-viewchild-and-contentchild
            </a>
 </details>
-
+<details>
+           <summary>
+Implementing a Loading Skeleton in Angular
+           </summary>
+            <a href="https://netbasal.com/implementing-a-loading-skeleton-in-angular-7490ffdecc1b">
+               https://netbasal.com/implementing-a-loading-skeleton-in-angular-7490ffdecc1b
+           </a>
+</details>
+<details>
+           <summary>
+                      How the Angular Compiler Works
+           </summary>
+            <a href="https://blog.angular.io/how-the-angular-compiler-works-42111f9d2549">
+             https://blog.angular.io/how-the-angular-compiler-works-42111f9d2549
+           </a>
+</details>
+<details>
+           <summary>
+                      Folder Structure of Angular Application
+           </summary>
+            <a href="https://dotnettutorials.net/lesson/folder-structure-of-angular-application/">
+             https://dotnettutorials.net/lesson/folder-structure-of-angular-application/
+           </a>
+</details>
+<details>
+           <summary>
+                      Folder Structure of Angular Application
+           </summary>
+            <a href="https://dotnettutorials.net/lesson/folder-structure-of-angular-application/">
+             https://dotnettutorials.net/lesson/folder-structure-of-angular-application/
+           </a>
+</details>
+<details>
+           <summary>
+                      Angular package.json file overview
+           </summary>
+            <a href="https://www.codestack.net/angular/getting-started/package/">
+https://www.codestack.net/angular/getting-started/package/
+           </a>
+</details>
