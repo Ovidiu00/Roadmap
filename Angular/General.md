@@ -244,3 +244,11 @@ https://www.codestack.net/angular/getting-started/package/
 https://www.geeksforgeeks.org/how-to-bundle-an-angular-app-for-production/
            </a>
 </details>
+<details>
+           <summary>
+                  TypeScript tutorial: Declaration files
+           </summary>
+            <a href="https://www.youtube.com/watch?v=GVUPOvCRmSY&ab_channel=truejs">
+https://www.youtube.com/watch?v=GVUPOvCRmSY&ab_channel=truejs
+           </a>
+</details>
