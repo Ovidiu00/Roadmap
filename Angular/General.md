@@ -222,10 +222,10 @@ Implementing a Loading Skeleton in Angular
 </details>
 <details>
            <summary>
-                      Folder Structure of Angular Application
+                      Understanding Angular Workspace Configuration File (angular.json)
            </summary>
-            <a href="https://dotnettutorials.net/lesson/folder-structure-of-angular-application/">
-             https://dotnettutorials.net/lesson/folder-structure-of-angular-application/
+            <a href="https://www.youtube.com/watch?v=3DYJ72p3nUI&ab_channel=TheCodeCaptain">
+             https://www.youtube.com/watch?v=3DYJ72p3nUI&ab_channel=TheCodeCaptain
            </a>
 </details>
 <details>
@@ -234,5 +234,13 @@ Implementing a Loading Skeleton in Angular
            </summary>
             <a href="https://www.codestack.net/angular/getting-started/package/">
 https://www.codestack.net/angular/getting-started/package/
+           </a>
+</details>
+<details>
+           <summary>
+                     How to bundle an Angular app for production?
+           </summary>
+            <a href="https://www.geeksforgeeks.org/how-to-bundle-an-angular-app-for-production/">
+https://www.geeksforgeeks.org/how-to-bundle-an-angular-app-for-production/
            </a>
 </details>
